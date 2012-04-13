@@ -1,0 +1,3 @@
+Demonstration of live coding in Python. Run live-py.py and edit the code. 
+Changes appear immediately in the turtle graphics window.
+You need Tkinter installed.
